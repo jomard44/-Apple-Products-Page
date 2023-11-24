@@ -64,7 +64,7 @@ section{
     color: black;
     display:block;
     float: left;
-    width: 49%;
+    width: 49.5%;
     margin-bottom: 20px;
 }
 .four{
@@ -73,7 +73,7 @@ section{
     color: black;
     display:block;
     float: right;
-    width: 49%;
+    width: 49.5%;
     margin-bottom: 20px;
     margin-top: -11px;
 }
@@ -83,7 +83,7 @@ section{
     color: black;
     display: block;
     float: left;
-    width: 49%;
+    width: 49.5%;
     margin-bottom: 20px;
 }
 .six{
@@ -92,7 +92,7 @@ section{
     color: black;
     display: block;
     float: right;
-    width: 49%;
+    width: 49.5%;
     margin-bottom: 20px;
     
 }
